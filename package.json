@@ -1,0 +1,20 @@
+{
+  "name": "envato-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2",
+    "node-fetch": "^2.6.7",
+    "nodejs-file-downloader": "^4.13.0",
+    "progress": "^2.0.3",
+    "qs": "^6.12.3"
+  }
+}
